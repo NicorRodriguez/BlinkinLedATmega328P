@@ -54,4 +54,4 @@ main:
         brne delay3
             dec r18
             brne delay3
-    rjmp main;
+    rjmp main
